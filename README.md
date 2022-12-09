@@ -1,11 +1,10 @@
 <h1 align="center"><img src="nick.gif" alt="ISTECTION"></h1>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&duration=2000&pause=200&color=F7AC1D&center=true&vCenter=true&multiline=true&width=700&height=140&lines=%D0%A7%D0%B0%D0%BA+%D0%9D%D0%BE%D1%80%D1%80%D0%B8%D1%81+%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%BA%D1%80%D1%83%D1%82%2C+%D1%87%D1%82%D0%BE+%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB+%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE;%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BC%D0%B5%D1%81%D1%82%D0%B0+%D0%BD%D0%B0+%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B5+%D0%BF%D0%BE+%D0%B2%D0%B5%D1%81%D1%83!;Chuck+Norris+is+so+cool+that+he+determined+the+amount+of+;free+space+on+the+flash+drive+by+weight!)](https://git.io/typing-svg)
 
 ***
-
-
-<div align="center">
 
 ### 🐘  🎀  𝐼𝒟𝐸𝓈/𝐸𝒹𝒾𝓉𝑜𝓇𝓈:  🎀  🐘
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
