@@ -67,13 +67,9 @@
 
 ***
 
-</div>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=desmond60&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=desmond60&theme=radical)
 
-
-<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=desmond60)
 
